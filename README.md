@@ -36,8 +36,8 @@
 
 ### 1. Repozitoriyani yuklab olish
 ```bash
-git clone https://github.com/yourusername/PodarkaBotUz.git
-cd PodarkaBotUz
+git clone https://github.com/pywellsdm/Tg-Podarka-Uz.git
+cd Tg-Podarka-Uz
 ```
 
 ### 2. Kerakli kutubxonalarni o'rnatish
@@ -53,7 +53,7 @@ pip install telethon asyncio
 
 ### 4. Bot'ni ishga tushirish
 ```bash
-python3 main.py
+python3 BotTG.py
 ```
 
 ---
