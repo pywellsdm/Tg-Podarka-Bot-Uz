@@ -45,17 +45,11 @@ cd Tg-Podarka-Uz
 pip install telethon asyncio
 ```
 
-### 3. Telegram API olish
-1. https://my.telegram.org saytiga o'ting
-2. Telefon raqamingiz bilan kiring
-3. "API Development Tools" → Yangi dastur yarating
-4. **API ID** va **API Hash** ni oling
-
-### 4. Bot'ni ishga tushirish
+### 3. Bot'ni ishga tushirish
 ```bash
 python3 BotTG.py
 ```
-
+### 4. Sozlamalar bo'limidan barcha narsani sozlash
 ---
 
 ## 🔐 Litsenziya kaliti
